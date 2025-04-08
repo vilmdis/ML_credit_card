@@ -41,8 +41,12 @@ Recall (мошенничество): 0.87
 F1-score: 0.89
 Accuracy: 0.999
 ROC AUC: ~0.99
+![image](https://github.com/user-attachments/assets/5ce9e2ad-1e8f-436b-882a-c2e82144d45b)
+![image](https://github.com/user-attachments/assets/890ee8b1-e6a3-43ac-a4ab-1ffa292543a2)
 Ложноположительных: 8
 Ложноприцательных: 13
+![image](https://github.com/user-attachments/assets/179026ae-22a7-4779-b19f-468a0f7da159)
+
 
 Выводы:
 Использование scale_pos_weight и GridSearchCV позволило значительно повысить точность модели на несбалансированных данных.
