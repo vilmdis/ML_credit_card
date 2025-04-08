@@ -1,4 +1,4 @@
-# ML_credit_cart
+# ML_credit_card
 Credit Card Fraud Detection Project
 
 Цель проекта:
